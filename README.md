@@ -1,2 +1,2 @@
-# Compilers
-Compilers Assignments
+# Comp-Security
+Computer Security Assignments
